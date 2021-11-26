@@ -10,7 +10,6 @@
     
 </head>
 <body>
-   <header>
-       <h1 class="titulo">Saes Celex Zacatenco</h1> 
+   <header><h1 class="titulo">Saes Celex Zacatenco</h1></header>
 </body>
 </html>
